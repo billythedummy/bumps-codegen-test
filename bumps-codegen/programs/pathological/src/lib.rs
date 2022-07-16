@@ -10,14 +10,11 @@ pub mod pathological {
         msg!(
             "{}, {}, {}",
             ctx.bumps
-                .a_supercalifragilisticexpialidociously_long_account_name
-                .unwrap(),
+                .a_supercalifragilisticexpialidociously_long_account_name,
             ctx.bumps
-                .a_supercalifragilisticexpialidociously_long_account_name_2
-                .unwrap(),
+                .a_supercalifragilisticexpialidociously_long_account_name_2,
             ctx.bumps
-                .a_supercalifragilisticexpialidociously_long_account_name_3
-                .unwrap(),
+                .a_supercalifragilisticexpialidociously_long_account_name_3,
         );
         Ok(())
     }

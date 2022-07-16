@@ -25,7 +25,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-access-control"
 version = "0.25.0"
-source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#a9099857b9b93066d6a439db3ecfd74638059bdf"
+source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#ef32cea01894315d4dfc02756947d027b27af074"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -38,7 +38,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-account"
 version = "0.25.0"
-source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#a9099857b9b93066d6a439db3ecfd74638059bdf"
+source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#ef32cea01894315d4dfc02756947d027b27af074"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -52,7 +52,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-constant"
 version = "0.25.0"
-source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#a9099857b9b93066d6a439db3ecfd74638059bdf"
+source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#ef32cea01894315d4dfc02756947d027b27af074"
 dependencies = [
  "anchor-syn",
  "proc-macro2",
@@ -62,7 +62,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-error"
 version = "0.25.0"
-source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#a9099857b9b93066d6a439db3ecfd74638059bdf"
+source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#ef32cea01894315d4dfc02756947d027b27af074"
 dependencies = [
  "anchor-syn",
  "proc-macro2",
@@ -73,7 +73,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-event"
 version = "0.25.0"
-source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#a9099857b9b93066d6a439db3ecfd74638059bdf"
+source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#ef32cea01894315d4dfc02756947d027b27af074"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -85,7 +85,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-interface"
 version = "0.25.0"
-source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#a9099857b9b93066d6a439db3ecfd74638059bdf"
+source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#ef32cea01894315d4dfc02756947d027b27af074"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -98,7 +98,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-program"
 version = "0.25.0"
-source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#a9099857b9b93066d6a439db3ecfd74638059bdf"
+source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#ef32cea01894315d4dfc02756947d027b27af074"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -110,7 +110,7 @@ dependencies = [
 [[package]]
 name = "anchor-attribute-state"
 version = "0.25.0"
-source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#a9099857b9b93066d6a439db3ecfd74638059bdf"
+source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#ef32cea01894315d4dfc02756947d027b27af074"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -122,7 +122,7 @@ dependencies = [
 [[package]]
 name = "anchor-derive-accounts"
 version = "0.25.0"
-source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#a9099857b9b93066d6a439db3ecfd74638059bdf"
+source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#ef32cea01894315d4dfc02756947d027b27af074"
 dependencies = [
  "anchor-syn",
  "anyhow",
@@ -134,7 +134,7 @@ dependencies = [
 [[package]]
 name = "anchor-lang"
 version = "0.25.0"
-source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#a9099857b9b93066d6a439db3ecfd74638059bdf"
+source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#ef32cea01894315d4dfc02756947d027b27af074"
 dependencies = [
  "anchor-attribute-access-control",
  "anchor-attribute-account",
@@ -157,7 +157,7 @@ dependencies = [
 [[package]]
 name = "anchor-syn"
 version = "0.25.0"
-source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#a9099857b9b93066d6a439db3ecfd74638059bdf"
+source = "git+https://github.com/billythedummy/anchor?branch=bumps-codegen#ef32cea01894315d4dfc02756947d027b27af074"
 dependencies = [
  "anyhow",
  "bs58 0.3.1",
@@ -993,9 +993,9 @@ dependencies = [
 
 [[package]]
 name = "rustversion"
-version = "1.0.7"
+version = "1.0.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a0a5f7c728f5d284929a1cccb5bc19884422bfe6ef4d6c409da2c41838983fcf"
+checksum = "24c8ad4f0c00e1eb5bc7614d236a7f1300e3dbd76b68cac8e06fb00b015ad8d8"
 
 [[package]]
 name = "ryu"
@@ -1255,9 +1255,9 @@ checksum = "dcf81ac59edc17cc8697ff311e8f5ef2d99fcbd9817b34cec66f90b6c3dfd987"
 
 [[package]]
 name = "unicode-ident"
-version = "1.0.1"
+version = "1.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "5bd2fe26506023ed7b5e1e315add59d6f584c621d037f9368fea9cfb988f368c"
+checksum = "15c61ba63f9235225a22310255a29b806b907c9b8c964bcbd0a2c70f3f2deea7"
 
 [[package]]
 name = "unicode-segmentation"

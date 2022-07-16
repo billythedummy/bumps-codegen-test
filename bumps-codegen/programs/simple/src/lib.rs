@@ -7,7 +7,7 @@ pub mod simple {
     use super::*;
 
     pub fn initialize(ctx: Context<InitializeBumps, Initialize>) -> Result<()> {
-        msg!("{}", ctx.bumps.a.unwrap());
+        msg!("{}", ctx.bumps.a);
         Ok(())
     }
 }

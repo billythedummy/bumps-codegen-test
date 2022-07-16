@@ -16,7 +16,7 @@ Simple accounts struct with just 1 PDA.
 
 | version | .so binary size (bytes) | compute units used |
 | -- | -- | -- |
-| bumps-codegen | 183544 | 6241 |
+| bumps-codegen | 183328 | 6394 |
 | 0.25.0 | 193512 | 6664 |
 
 ### pathological
@@ -25,5 +25,5 @@ Accounts struct has multiple PDAs, requiring multiple BTree lookups. Since keys 
 
 | version | .so binary size (bytes) | compute units used |
 | -- | -- | -- |
-| bumps-codegen | 187448 | 17539 |
+| bumps-codegen | 186608 | 17510 |
 | 0.25.0 | 198472 | 19209 |
